@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/consolas-videojuegos/build/static/css/main.3f55cee3.css",
+    "main.js": "/github.io/consolas-videojuegos/build/static/js/main.ed5a52b8.js",
+    "static/media/consola-switch.png": "/github.io/consolas-videojuegos/build/static/media/consola-switch.2d61c8bbdcad2561ea38.png",
+    "static/media/consola-xbox.png": "/github.io/consolas-videojuegos/build/static/media/consola-xbox.48b13e709fc572531002.png",
+    "static/media/consola-nes.png": "/github.io/consolas-videojuegos/build/static/media/consola-nes.29b0090105306e6270d5.png",
+    "static/media/consola-ps5.png": "/github.io/consolas-videojuegos/build/static/media/consola-ps5.88e2f07cb62b05bb4d5a.png",
+    "static/media/imagen-footer.png": "/github.io/consolas-videojuegos/build/static/media/imagen-footer.97c72dcf099221ea06ab.png",
+    "static/media/logo.png": "/github.io/consolas-videojuegos/build/static/media/logo.9648568402cff8c89407.png",
+    "index.html": "/github.io/consolas-videojuegos/build/index.html",
+    "main.3f55cee3.css.map": "/github.io/consolas-videojuegos/build/static/css/main.3f55cee3.css.map",
+    "main.ed5a52b8.js.map": "/github.io/consolas-videojuegos/build/static/js/main.ed5a52b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f55cee3.css",
+    "static/js/main.ed5a52b8.js"
+  ]
+}

@@ -1,5 +1,5 @@
 import '../App.css';
-import LogoDelSitio from './imagenes/logo.png';
+import LogoDelSitio from '../imagenes/logo.png';
 
 
 function Logo(props) {
