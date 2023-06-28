@@ -1,0 +1,109 @@
+.contenedor-consola {
+  width: 1024px;
+  height: auto;
+  margin: 10px 10px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1a1d24;
+  border-width: 1px 1px 1px 1px;
+  border:#007f92 solid 1px;
+  border-radius: 10px;
+}  
+
+.imagen-consola {  
+  width: auto;
+  height: auto;
+}
+  
+.contenedor-texto-consola {
+  text-align: center;
+  padding: 40px;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.nombre-consola {
+  font-size: 1.7rem;
+  color: #e42877;
+  letter-spacing: 3px;
+}
+
+.ano-consola {
+  margin-top: 15px;
+  padding-bottom: 30px;
+  color: #007f92;
+}
+
+.descripcion-consola {
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  text-align: justify;
+  color: #646b7e;
+}
+
+@media (max-width:1024px) {
+  .contenedor-consola {
+    width: auto;
+    height: auto;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1d24;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2e313a;
+    border-style: solid;
+    border-radius: 10px;
+ }
+
+  .imagen-consola {  
+    width: 70%;
+    height: 70%;
+  }
+
+  .contenedor-texto-consola {
+    padding: 15px;
+    line-height: 1.5rem;
+  }
+
+  .nombre-consola {
+    font-size: 1.5rem;
+ }
+}
+
+@media (max-width:600px) {
+  .contenedor-consola {
+    width: auto;
+    height: auto;
+    margin: 10px 10px 50px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1d24;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2e313a;
+    border-style: solid;
+    border-radius: 10px;
+ }
+
+ .imagen-consola {  
+  width: 40%;
+  height: 40%;
+ }
+
+ .contenedor-texto-consola {
+  padding: 15px;
+  line-height: 1.5rem;
+}
+
+ .nombre-consola {
+  font-size: 1.2rem;
+ }
+} 
+
+@media (max-width:320px) {
+  .imagen-consola {
+    display: none;
+  }
+}
